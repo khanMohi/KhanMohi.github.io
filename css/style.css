@@ -22,3 +22,22 @@ body {
 .about {
     background-color: #00BDBD;
 }
+
+.education {
+    background-color: #EEEEEE;
+}
+
+.bg-redType {
+    background-color: #fB857F;
+}
+
+.redType-color {
+    color: #fB857F;
+}
+
+.circle {
+    background-color: #fB857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
