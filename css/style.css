@@ -16,7 +16,10 @@ body {
 } */
 
 .navbar {
+    top: 0;
     background-color: #282637;
+    position: sticky;
+    z-index: 2;
 }
 
 .about {
@@ -43,5 +46,9 @@ body {
 }
 
 .project {
+    background-color: #2BB3DD;
+}
+
+project {
     background-color: #2BB3DD;
 }
