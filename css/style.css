@@ -15,6 +15,10 @@ body {
     background-color: #8D8D8D;
 } */
 
-.navbar-container {
+.navbar {
     background-color: #282637;
+}
+
+.about {
+    background-color: #00BDBD;
 }
