@@ -34,6 +34,10 @@ body {
     background-color: #fB857F;
 }
 
+.bg-redType:hover {
+    color: black!important;
+}
+
 .redType-color {
     color: #fB857F;
 }
@@ -49,6 +53,14 @@ body {
     background-color: #2BB3DD;
 }
 
-project {
-    background-color: #2BB3DD;
+.form {
+    background-color: #474D7D;
+}
+
+.bummy-box {
+    font-size: 72px;
+}
+
+.inner-form {
+    background-color: #585F73;
 }
